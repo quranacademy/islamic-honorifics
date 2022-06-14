@@ -9,7 +9,7 @@ amas | alayhima salam
 amus | alayhimu salam
 as | alayhi salam
 asws | alayhi salatu wa-salam
-awk | azza wa-jall
+awj | azza wa-jall
 jal | jalla jalalah
 jwa | jalla wa-ala
 rada | radiya Allahu anha
